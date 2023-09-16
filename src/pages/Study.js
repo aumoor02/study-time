@@ -1,12 +1,12 @@
 import Header from "../components/Header";
 
-function Homepage() {
+function Study() {
   return (
     <div>
       <Header />
-      Homepage
+      Study
     </div>
   );
 }
 
-export default Homepage;
+export default Study;
